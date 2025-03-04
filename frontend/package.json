@@ -1,6 +1,14 @@
-"scripts": {
-  "start": "vite",
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
+{
+  "name": "fusion-excel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^4.0.0"
+  }
 }
